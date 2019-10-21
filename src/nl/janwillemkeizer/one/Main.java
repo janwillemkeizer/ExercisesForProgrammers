@@ -1,4 +1,4 @@
-package nl.janwillemkeizer;
+package nl.janwillemkeizer.one;
 
 import java.util.Scanner;
 
